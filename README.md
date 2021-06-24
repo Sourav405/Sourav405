@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Md.Shohidul Islam . I'm a CSE undergraduate at State University Of Bangladesh
+- 👋 Hi, I’m Md.Shohidul Islam . I'm a CSE undergraduate at State University Of Bangladesh
 - 👀 I’m interested in designing and development
 - 🌱 I’m currently learning JavaScript
 
